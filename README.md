@@ -1,7 +1,7 @@
 # Udacity-Nanodegree-DataScientist-1st
 This repository will be used for the '1st Project: Write A Data Science Blog Post.'
 
-### Table of Contents
+### Table of Contents :
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
